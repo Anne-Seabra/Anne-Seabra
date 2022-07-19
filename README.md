@@ -13,7 +13,6 @@
 ![Anne-Seabra Github stats](https://github-readme-stats.vercel.app/api?username=Anne-Seabra&show_icons=true&theme=dracula)
 
 
-
 ## Tecnologias que estou aprendendo
 
 
